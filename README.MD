@@ -12,7 +12,7 @@
   - Learned how we can center any svgs, images as background by using background-position & background-repeat.
 
   - Learned to use flex grow, shrink
-  - Learned to create linear-gradient background color
+  - Learned various flexbox properties.
 
 ---
 
